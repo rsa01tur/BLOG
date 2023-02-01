@@ -1,0 +1,23 @@
+A vida na sociedad é diversa, somente por está introdução não seria 
+necessário falar mais nada sobre o que se deseja explicar.
+O que estudar? Pode parece simples escolher, alguém pretende ingressar
+na faculdade pela lógica busca na internet, entra nos sites da faculdades,
+procura fazer contatos em redes sociais com pessoas que estudaram ou trabalhem
+na aréa pretendida.
+Passando por está etapa chega o momento dos estudos. O foco do texto é TI, você
+é influêncidado pelo meio que vive, como exemplos, estando próximo de pessoas
+que tenham gosto refinaod, você vai absorver ou não, viajens, comidas, etc..
+Parece sem nexo o texto, não é objetivo refletir, sobre cursos, estudar 
+sozinho ou ingressar em algum centro de ensino. Como exemplo TI, o que é
+produzidoem grande escala na sua sociedade? Sites, softwares crm, BIG DATA, 
+no final dados. Você estuda geometria analítica, cicuitos lógicos, pretende
+fazer sites, usar o netbeans e trabalhar contruindo uma aplicação para imóvies?
+
+Tudo é dados ou quase tudo, você entra em algum predio, o que você pode 
+construir usando  o que já aprender? Site, reconhecimento facial, controle de 
+quem entra e sai, alarmes. Você viaja para o interior, está no campo, o que pode fazer? Registrar a produção diária de leite? O office faz, coletar
+informações de produção diária, alimentação, gastos, eficiência de produção,
+ou seja quantas vacas quantos litros produzidos no final do mês, o excell faz,
+usar o PowerBI, talvez usar uma metodologia ágil? Desenvolver um software de 
+projetos, já existem? Talvez nem precise desenvolver porém saber usar o que
+já existe e é usado.
