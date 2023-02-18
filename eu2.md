@@ -14,7 +14,7 @@ ou estatística, amostra e população, em nenhum dos casos
 o software criado saberia identificar, em outras situações
 vender cerveja, supermercado, questionário dentro da loja
 com objetivo de exibir o que os clientes pensam e bem diferente deste
-programa.Deep leaning teria que treinar, estatística
+programa. Deep leaning teria que treinar, estatística
 com base nos itens existiriam talvez poucas diferenças,
 determinado grupo seria culpado sempre, talvez identificar usuários
 de drogas, talvez seria possível, devem existir análises, sei lá scielo.
