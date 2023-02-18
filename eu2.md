@@ -24,3 +24,8 @@ na situação de uma pergunda ser dividida em outros subgrupos. No
 livro de sociologia que possuo existe um capítulo que fala de
 questionários, não de estatística, porém menciona censo e blá
 blá, blá, 
+
+Eu tenho boa vista, fiz exame de vista um tempo antes de ter o avc,
+não tenho necessidade de usar óculos, eu enchergo bem no escuro, 
+muito bem, de dia melhor ainda, não é a distância é o padrão de 
+cores, o maluco passou a mao na bunda da carolina
