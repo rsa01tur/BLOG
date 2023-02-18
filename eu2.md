@@ -28,4 +28,8 @@ blá, blá,
 Eu tenho boa vista, fiz exame de vista um tempo antes de ter o avc,
 não tenho necessidade de usar óculos, eu enchergo bem no escuro, 
 muito bem, de dia melhor ainda, não é a distância é o padrão de 
-cores, o maluco passou a mao na bunda da carolina
+cores, o maluco passou a mao na bunda da carolina, ela na frente,
+ele atrás mais lateral, e uma coisa branca, a luz nas costas. Em
+2019 tinha gente brigando pelo sei la o que, a galera muito afetiva
+nas relações humanas e de cada um, não tenho nada haver com isso. foi
+o que vê,
