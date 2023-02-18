@@ -18,3 +18,9 @@ programa. Deep leaning teria que treinar, estatística
 com base nos itens existiriam talvez poucas diferenças,
 determinado grupo seria culpado sempre, talvez identificar usuários
 de drogas, talvez seria possível, devem existir análises, sei lá scielo.
+
+No exemplar de power of girls, talvez média ponderada seja melhor 
+na situação de uma pergunda ser dividida em outros subgrupos. No
+livro de sociologia que possuo existe um capítulo que fala de
+questionários, não de estatística, porém menciona censo e blá
+blá, blá
