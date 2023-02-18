@@ -23,4 +23,4 @@ No exemplar de power of girls, talvez média ponderada seja melhor
 na situação de uma pergunda ser dividida em outros subgrupos. No
 livro de sociologia que possuo existe um capítulo que fala de
 questionários, não de estatística, porém menciona censo e blá
-blá, blá
+blá, blá, 
