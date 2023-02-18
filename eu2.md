@@ -1,9 +1,14 @@
 ## Por que não
-Eu falo de situações extemas? 
+Eu falo de situações extemas?
+
 -Vai além.
+
 As pessoas não sabem o que desejam até mostrar para elas. 
+
 Sem erros fica difícil conhecer os outros caminhos e evoluir.
+
 Tem umas paradas acontecendo que ou sou burro ou...
+
 Não é boa amostra, população identica. IA, Deep learning,
 ou estatística, amostra e população, em nenhum dos casos
 o software criado saberia identificar, em outras situações
