@@ -36,4 +36,4 @@ o que vê, a galera poderia, sabe o que aconteceu, melhor deixar de lado
 muita gente ganha, sei lá o que... blá blá blá, 
 O que fiquei sabendo é que sei lá lá lá, tem que esclarecer mais não voto
 neles, voto em qualquer coisa menos neles, voto no opositor menos neles,
-não mundo nunca o que vou falar.
+não mudo nunca o que vou falar.
