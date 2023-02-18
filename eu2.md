@@ -33,4 +33,4 @@ ele atrás mais lateral, e uma coisa branca, a luz nas costas. Em
 2019 tinha gente brigando pelo sei la o que, a galera muito afetiva
 nas relações humanas e de cada um, não tenho nada haver com isso. foi
 o que vê, a galera poderia, sabe o que aconteceu, melhor deixar de lado
-muita gente ganha, sei lá o que... blá blá blá,
+muita gente ganha, sei lá o que... blá blá blá, 
