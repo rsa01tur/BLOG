@@ -21,7 +21,7 @@ Como proceder, qual funcionário?
 - você vende estimulantes?
 
 A mídia, a grande mídia, tem por objetivo:
-- devender seus objetivos, lucro.
+- de vender seus objetivos, lucro.
 - ter notícias.
 - parecer racional.
 - no momento o certo é o que pode ser criado, e justificado.
