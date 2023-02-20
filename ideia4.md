@@ -12,7 +12,7 @@ produtos podem ter defeitos.
 Você tem que estudar, é funcionário público? Esta é a resposta. Fazer
 meio, ou fazer completo.
 
-Tem determinada galera que fala usa isso é bom rápido, caso tenha dinheiro é melhor usar o outro.
+Tem determinada galera que fala usa isso é bom, rápido, caso tenha dinheiro é melhor usar o outro.
 
 Tem uma galera que ...., cada um namora o que quiser, era muito verde. Uma vez eu fui 
 em determinado lugar, porra o local era muito bonito florido, a galera assistia os jornais locais.
