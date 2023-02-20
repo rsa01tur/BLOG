@@ -34,6 +34,18 @@ vendendo fumos especiais, o que tem no local políticos.
 Políticos o cara foi em determinada direção mudou, o outro viajou, eu fiz um vídeo muito tempo, se passar!!! porém não
 passou.
 
+
+Fazer umas paradinhas, demonstrar, fazer um seti, que maneiro, porra toda é dados, às 4 leis da ia:
+- poder executar com qualquer propósito
+- poder estudar, e modificar
+- poder redistribuir e ajudar o próximo
+- liberdade aperfeiçoar o programa.
+
+As 3 leis da:
+ - Um robô não pode ferir um humano ou permitir que um humano sofra algum mal
+ - Os robôs devem obedecer às ordens dos humanos, exceto nos casos em que essas ordens entrem em conflito com a primeira lei
+ - Um robô deve proteger sua própria existência, desde que não entre em conflito com as leis anteriores.
+
 Vou falar de novo os caras os carros, eles estão em diversas regiões, não é .... sei lá o carro roda aqui não vai para lá,
 a  placa lá eless aqui. a galera não explica isso na tv!!!
 
