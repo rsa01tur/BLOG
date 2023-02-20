@@ -17,7 +17,7 @@ Tem determinada galera que fala usa isso é bom rápido, caso tenha dinheiro é 
 Tem uma galera que ...., cada um namora o que quiser, era muito verde. Uma vez eu fui 
 em determinado lugar, porra o local era muito bonito florido, a galera assistia os jornais locais.
 
-Em relação a informática, há um tempo atrás existia um curso chamado processsamento de dados, algém
+Em relação a informática, há um tempo atrás existia um curso chamado processsamento de dados, alguém
 conhece?
 
 Hoje em dia você joga quase tudo por diversos aplicativos, streamming de jogos, na minha opinião é um
@@ -26,8 +26,15 @@ fazer um so básico, carregar o acesso remoto, fazer um programa que chame o ace
 acesso aos controles, sei lá.
 
 É isso que dá emprego, plantar banana, sabe onde planta banana? Sabe onde planta alface? Sabe se tem que
-ter alguma certificação onde faça validação do organico?
+ter alguma certificação onde faça validação do orgânico?
 
 Carnaval muita droga, onde ficam os partidos polítcos, pensa o local ficou bom tempo vazio, muitas bancas
 vendendo fumos especiais, o que tem no local políticos.
+
+Políticos o cara foi em determinada direção mudou, o outro viajou, eu fiz um vídeo muito tempo, se passar!!! porém não
+passou.
+
+Vou falar de novo os caras os carros, eles estão em diversas regiões, não é .... sei lá o carro roda aqui não vai para lá,
+a  placa lá eless aqui. a galera não explica isso na tv!!!
+
 
