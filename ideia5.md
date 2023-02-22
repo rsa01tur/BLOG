@@ -4,3 +4,6 @@ Vamos resolver os problemas, não resolvem, a fronteira.. O bicho tem particiá�
 a venda de armas, o cara muito ... sei-lá não sobe, os ou as fazem os melhores colégios, alguns
 vão para berkeley, assim é o sistema todos querem ir para disney. A parada é venda de armas. Matrix
 tem que ter o desiquelíbrio, todos iguais não dá
+
+A galera que tem a família meio militar sabe como é, os relacionamentos, estudar, crescer, não fica
+com esse traste,
