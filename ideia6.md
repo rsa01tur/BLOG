@@ -9,7 +9,7 @@ opcoes, preguiça de fazer, tecnologia de ponta, revolucionar o mercado de sites
 
 ------------------------------------------------------------------------------------------------------------------------------------
                                                         
-                                                        <Mini Mundo Básico>
+                                                        < Mini Mundo Básico >
                                                         
 O site tromagiu pretende distribuir containers, será utilizado linux mais php um pouco de shellscript e docker, o docker da
 forma que será utilizada não tem integração para fazer uma gui. Será usado shell_exec repassando na linha os comandos com as
