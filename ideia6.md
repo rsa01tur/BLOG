@@ -20,7 +20,7 @@ arquivos de consultas. O acesso será feito de forma remota para a imagem config
 
 docker    Conceitual básico
 
-users(cod_id, nome, email) 1  <acessam> N containers(cod_id_image, container_imagem, memory, porta, fk_cod_id_users)
+users(cod_id, nome, email) 1  < acessam > N containers(cod_id_image, container_imagem, memory, porta, fk_cod_id_users)
   
  ---------------------------------------------------------------------------------------------------------------------------------------------- 
 
