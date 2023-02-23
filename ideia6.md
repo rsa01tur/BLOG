@@ -8,7 +8,9 @@ após determinado tempo feche o container, um --name com alguma repeticao de val
 opcoes, preguiça de fazer, tecnologia de ponta, revolucionar o mercado de sites de containers.
 
 ------------------------------------------------------------------------------------------------------------------------------------
-                                                         <Mini Mundo Básico>
+                                                        
+                                                        <Mini Mundo Básico>
+                                                        
 O site tromagiu pretende distribuir containers, será utilizado linux mais php um pouco de shellscript e docker, o docker da
 forma que será utilizada não tem integração para fazer uma gui. Será usado shell_exec repasando na linha os comandos com as
 variáveis extraídas dos formulários. É possível fazer um mecanismo de busca tanto das imagens quanto da busca no search pegando
@@ -20,4 +22,9 @@ docker    Conceitual básico
 
 users(cod_id, nome, email) 1  <acessam> N containers(cod_id_image, container_imagem, memory, porta, fk_cod_id_users)
   
+ ---------------------------------------------------------------------------------------------------------------------------------------------- 
+
+  
+  As vezes fico pensando o futurao sobre as tecnologias, qual a nova onda!!! chatgpt personalidade do ano, metaverso, acho complicado, a questão
+ é sua interface, sair de sites, páginas do computador para o telefone é tudo app, meta tem uma estrutura de jogos, será que ambos os sexos gostam  de jogar, talvez algumas gerações à frente.
  
