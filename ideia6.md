@@ -12,7 +12,7 @@ opcoes, preguiça de fazer, tecnologia de ponta, revolucionar o mercado de sites
                                                         <Mini Mundo Básico>
                                                         
 O site tromagiu pretende distribuir containers, será utilizado linux mais php um pouco de shellscript e docker, o docker da
-forma que será utilizada não tem integração para fazer uma gui. Será usado shell_exec repasando na linha os comandos com as
+forma que será utilizada não tem integração para fazer uma gui. Será usado shell_exec repassando na linha os comandos com as
 variáveis extraídas dos formulários. É possível fazer um mecanismo de busca tanto das imagens quanto da busca no search pegando
 a saída e colocando em um arquivo que pode ser lido pelo php, em relação a está etapa seria interessante que tenham usuários 
 separados porém com o objetivo de demonstração fazer sem bd aberto a todos. A questão é que cada usuário teria sua pasta com esses
