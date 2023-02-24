@@ -5,4 +5,6 @@ powerBI, o ser tecnológico e a relação com a sociedade, existe necessidade de
 muitos, trabalhando com ti você tem possibilidade de trabalhar em diversos setores, produzindo os mais variados conteúdos, então produza,
 fale de moda, fale de investimentos, existem diversas formas de trabalhar a notícia, mídias, blogs, pdfs, videos.
 
-O que você deseja? SER MILIONÁRIO, famoso, influênte.
+O que você deseja? SER MILIONÁRIO, famoso, influente.
+
+![comerebeber](comerebeber.png)
