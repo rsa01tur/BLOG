@@ -27,4 +27,4 @@ o resto é o resto, como linkar o estudo antigo com esse novo mercado, entender 
 ![lógica](https://www.areatecnologia.com/electronica/imagenes/simbolos-puertas-logicas.jpg)
 
 
-![homem](notas do homem.png)
+![homem]("notas do homem.png")
