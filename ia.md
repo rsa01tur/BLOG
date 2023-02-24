@@ -14,4 +14,10 @@ sua solução de segurança compilada, viva o python.
 Ela já pode estar sendo treinada para simular o pensamento de alguns, médicos,  engenheiros, políticos, basta usar o que existe...
 Menos eu não sou singular procuro estar fora da caixa, viva.
 
+# Opinião
+
+Tanto conteúdo, muitas pessoas especializadas, objetivo de muitos é vender, outos não sei, tirando aréas médicas, e estudo realmente
+o resto é o resto, como linkar o estudo antigo com esse novo mercado, entender o mercado. Melhor sei lá
+
+
 ![lógica](https://www.areatecnologia.com/electronica/imagenes/simbolos-puertas-logicas.jpg)
