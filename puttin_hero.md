@@ -1,6 +1,5 @@
 ## Lixo
 
-
 Sabe como funciona algumas coisas é que nem o lixo? O povo fabrica o lixo, em alguns lugares talvez não seja mais fábrica de lixo
 do que simplesmente o lixo, insegurança você assiste na tv, vota, reza, e paga a segurança privada, qual o motivo do lixo? É uma 
 forma de protesto, várias situações acontecem na cidade e você não percebe é o protesto do lixo. Caminhões de lixo, fábrica de 
