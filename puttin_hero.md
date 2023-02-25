@@ -1,4 +1,6 @@
 ## Lixo
+
+
 Sabe como funciona algumas coisas é que nem o lixo? O povo fabrica o lixo, em alguns lugares talvez não seja mais fábrica de lixo
 do que simplesmente o lixo, insegurança você assiste na tv, vota, reza, e paga a segurança privada, qual o motivo do lixo? É uma 
 forma de protesto, várias situações acontecem na cidade e você não percebe é o protesto do lixo. Caminhões de lixo, fábrica de 
@@ -15,7 +17,8 @@ A grande mídia qual o seu lado?
 - Guerra santa. Não tem medo de morrer.
 - Patriotismo, mercenarios. Está é a diferença.
 
-Tem coisas que é o lixo, é uma metáfora, porém estão certos em alguns casos.
+Tem coisas que é o lixo, é uma metáfora, porém estão certos em alguns casos. Sabe o que é geopolítica? Armas vão ser fabricadas, o
+mercado vai crescer, não existe guerra quando o homem fabricou a luz purpura, somente medo, esta é o enigma da guerra fria.
 
 
 ![grande homem](https://i2.wp.com/m.wsj.net/video/20111205/120511reutersputin/120511reutersputin_512x288.jpg)
