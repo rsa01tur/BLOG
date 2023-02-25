@@ -13,7 +13,7 @@ A grande mídia qual o seu lado?
 - Sabe a diferença do brasil para os outros?
 - Qual unica guerra que você não vence? política, economica.
 - Guerra santa. Não tem medo de morrer.
-
+- Patriotismo, mercenarios. Está é a diferença.
 
 
 ![grande homem](https://i2.wp.com/m.wsj.net/video/20111205/120511reutersputin/120511reutersputin_512x288.jpg)
