@@ -20,5 +20,16 @@ A grande mídia qual o seu lado?
 Tem coisas que é o lixo, é uma metáfora, porém estão certos em alguns casos. Sabe o que é geopolítica? Armas vão ser fabricadas, o
 mercado vai crescer, não existe guerra quando o homem fabricou a luz purpura, somente medo, esta é o enigma da guerra fria.
 
+O estimo mordeninho de ser e achar um ass, bons são os que vendem lixo, ele sabe o motivo da sua existência não mente, o seu valor não é
+metonímia, e o valor compra quem quer, é regulamentado na existência da vida moderna de pressão relaxar sentir o momento, ninguém é amigo, você
+é realmente excelente? Viver o sonho americano, estudar, produzir.... vou passar alguns nomes:
+
+- charles babbage
+- richard stallman
+- ken thompson
+- Dennis Ritchie
+- Peter Chan
+- George Boole
+
 
 ![grande homem](https://i2.wp.com/m.wsj.net/video/20111205/120511reutersputin/120511reutersputin_512x288.jpg)
