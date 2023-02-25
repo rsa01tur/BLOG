@@ -6,14 +6,16 @@ dinheiro. Você reza, critica a sujeira, consegue emprego por ser normal, você 
 tirou uma boa nota na escola, e reza.
 
 Algumas pessoas não entendem o jogo é o caso huawei, é o caso holandes da asmc, os anonymous é o mesmo caso dos black blocks, podem
-estar certos porém trabalham na margem, quando ocorreu o movimento de ir para ruas, onde estava? 
+estar certos porém trabalham na margem, quando ocorreu o movimento de ir para ruas, onde você estava? 
 
 A grande mídia qual o seu lado? 
 - Ela não possui.
 - Sabe a diferença do brasil para os outros?
-- Qual unica guerra que você não vence? política, economica.
+- Qual unica guerra que você não vence? política, econômica.
 - Guerra santa. Não tem medo de morrer.
 - Patriotismo, mercenarios. Está é a diferença.
+
+Tem coisas que é o lixo, é uma metáfora, porém estão certos em alguns casos.
 
 
 ![grande homem](https://i2.wp.com/m.wsj.net/video/20111205/120511reutersputin/120511reutersputin_512x288.jpg)
