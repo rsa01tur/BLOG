@@ -25,7 +25,7 @@ Por que não tudo, sistema ...
 
 
 
-Energia, guerra, fabricação da industria bélica.
+Energia, guerra, fabricação da industria bélica, oftalmologia.
 
 ## Outros
 Mercado do brasil para china, seja de turismo tecnologia, ou alguém o que falta. Pensando como ti, escrever de tecnologia para este mercado 
