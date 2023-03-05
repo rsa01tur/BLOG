@@ -20,7 +20,7 @@ Pontos de recarga pense tesla.
 
 Por que não tudo, sistema ...
 
-!(tesla recarga)[https://portallubes.com.br/wp-content/uploads/2017/08/pontos-de-recerga-3.jpg)
+!(tesla recarga)[https://portallubes.com.br/wp-content/uploads/2017/08/pontos-de-recerga-3.jpg]
 
 
 
@@ -30,3 +30,4 @@ Energia, guerra, fabricação da industria bélica.
 ## Outros
 Mercado do brasil para china, seja de turismo tecnologia, ou alguém o que falta. Pensando como ti, escrever de tecnologia para este mercado 
 deve ser complicado, quase tudo é frabicado de alguma forma, quase tudo menos asmc, somente sendo bem hack respeitado, conteúdo original.
+Quais países mais formam engenheiros, quantos são, qual ganho?
