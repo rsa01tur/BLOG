@@ -31,3 +31,5 @@ Energia, guerra, fabricação da industria bélica, oftalmologia.
 Mercado do brasil para china, seja de turismo tecnologia, ou alguém o que falta. Pensando como ti, escrever de tecnologia para este mercado 
 deve ser complicado, quase tudo é frabicado de alguma forma, quase tudo menos asmc, somente sendo bem hack respeitado, conteúdo original.
 Quais países mais formam engenheiros, quantos são, qual ganho?
+
+O que fazer, somente ti? o que ler, somente ti, investimentos, o que fazer andar, consumir ter ideias, ser inteligente entender os desejos, abre uma loja de cerveja artesanais, muito inteligente. Montei um b2b de insumos de cervejas.
