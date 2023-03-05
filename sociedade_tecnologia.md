@@ -20,7 +20,7 @@ Pontos de recarga pense tesla.
 
 Por que não tudo, sistema ...
 
-!(tesla recarga)[https://portallubes.com.br/wp-content/uploads/2017/08/pontos-de-recerga-3.jpg]
+![tesla recarga](https://portallubes.com.br/wp-content/uploads/2017/08/pontos-de-recerga-3.jpg)
 
 
 
